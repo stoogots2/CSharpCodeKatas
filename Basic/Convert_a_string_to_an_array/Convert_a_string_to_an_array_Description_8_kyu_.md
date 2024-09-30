@@ -1,0 +1,3 @@
+https://www.codewars.com/kata/57e76bc428d6fbc2d500036d
+
+.\katas\Basic\Convert_a_string_to_an_array\Convert_a_string_to_an_array_Description_8_kyu_.md

@@ -1,0 +1,3 @@
+https://www.codewars.com/kata/5765870e190b1472ec0022a2
+
+.\katas\Challenging\Path_Finder__1__can_you_reach_the_exit_\Path_Finder__1__can_you_reach_the_exit__Description_4_kyu_.md

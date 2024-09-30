@@ -1,0 +1,3 @@
+https://www.codewars.com/kata/55b7bb74a0256d4467000070
+
+.\katas\Challenging\Number_of_Proper_Fractions_with_Denominator_d\Number_of_Proper_Fractions_with_Denominator_d_Description_4_kyu_.md
