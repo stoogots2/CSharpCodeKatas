@@ -5,9 +5,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
-public class SolutionTest
+
+namespace Most_frequently_used_words_in_a_text;
+public class Most_frequently_used_words_in_a_text_Tests
 {
-​
+
     [Test]
     public void SampleTests()
     {
@@ -18,3 +20,5 @@ public class SolutionTest
         Assert.AreEqual(new List<string> { }, TopWords.Top3("  ...  "));
         Assert.AreEqual(new List<string> { }, TopWords.Top3("  '  "));
         Assert.AreEqual(new List<string> { }, TopWords.Top3("  '''  "));
+    }
+}

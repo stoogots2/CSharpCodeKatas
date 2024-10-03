@@ -1,7 +1,8 @@
 
 using NUnit.Framework;
 using System;
-public class SolutionTest
+namespace Number_of_Proper_Fractions_with_Denominator_d;
+public class Number_of_Proper_Fractions_with_Denominator_d_Tests
 {
     [Test]
     public void SmallerNumbers()
